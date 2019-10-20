@@ -1,0 +1,222 @@
+ID: 0659 - LONDON
+
+GET STATION
+
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-7.316666, 55.0]
+    },
+    "properties": {
+      "Id": "0659",
+      "Name": "Londonderry",
+      "Country": "Northern Ireland",
+      "ContinuousHeightsAvailable": true,
+      "Footnote": null
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.083333, 51.5]
+    },
+    "properties": {
+      "Id": "0113",
+      "Name": "LONDON BRIDGE (TOWER PIER)",
+      "Country": "England",
+      "ContinuousHeightsAvailable": true,
+      "Footnote": null
+    }
+  }]
+}
+
+GET TIDAL EVENTS
+
+[{
+  "EventType": "LowWater",
+  "DateTime": "2019-10-20T06:03:00",
+  "IsApproximateTime": false,
+  "Height": 1.0954534783567542,
+  "IsApproximateHeight": false,
+  "Filtered": false
+}, {
+  "EventType": "HighWater",
+  "DateTime": "2019-10-20T11:49:00",
+  "IsApproximateTime": false,
+  "Height": 2.2476136341478665,
+  "IsApproximateHeight": false,
+  "Filtered": false
+}, {
+  "EventType": "LowWater",
+  "DateTime": "2019-10-20T18:44:00",
+  "IsApproximateTime": false,
+  "Height": 1.2341617184822791,
+  "IsApproximateHeight": false,
+  "Filtered": false
+}, {
+  "EventType": "HighWater",
+  "DateTime": "2019-10-21T00:51:00",
+  "IsApproximateTime": false,
+  "Height": 2.1503533851259164,
+  "IsApproximateHeight": false,
+  "Filtered": false
+}, {
+  "EventType": "LowWater",
+  "DateTime": "2019-10-21T07:05:00",
+  "IsApproximateTime": false,
+  "Height": 1.1946310429566482,
+  "IsApproximateHeight": false,
+  "Filtered": false
+}, {
+  "EventType": "HighWater",
+  "DateTime": "2019-10-21T13:06:00",
+  "IsApproximateTime": false,
+  "Height": 2.1743204214032952,
+  "IsApproximateHeight": false,
+  "Filtered": false
+}, {
+  "EventType": "LowWater",
+  "DateTime": "2019-10-21T20:22:00",
+  "IsApproximateTime": false,
+  "Height": 1.2594272873113994,
+  "IsApproximateHeight": false,
+  "Filtered": false
+}, {
+  "EventType": "HighWater",
+  "DateTime": "2019-10-22T02:59:00",
+  "IsApproximateTime": false,
+  "Height": 2.1370799590916061,
+  "IsApproximateHeight": false,
+  "Filtered": false
+}, {
+  "EventType": "LowWater",
+  "DateTime": "2019-10-22T08:22:00",
+  "IsApproximateTime": false,
+  "Height": 1.2141791759410023,
+  "IsApproximateHeight": false,
+  "Filtered": false
+}, {
+  "EventType": "HighWater",
+  "DateTime": "2019-10-22T15:20:00",
+  "IsApproximateTime": false,
+  "Height": 2.2620948401674021,
+  "IsApproximateHeight": false,
+  "Filtered": false
+}, {
+  "EventType": "LowWater",
+  "DateTime": "2019-10-22T22:15:00",
+  "IsApproximateTime": false,
+  "Height": 1.1319851124030491,
+  "IsApproximateHeight": false,
+  "Filtered": false
+}, {
+  "EventType": "HighWater",
+  "DateTime": "2019-10-23T04:15:00",
+  "IsApproximateTime": false,
+  "Height": 2.2806439385798676,
+  "IsApproximateHeight": false,
+  "Filtered": false
+}, {
+  "EventType": "LowWater",
+  "DateTime": "2019-10-23T09:36:00",
+  "IsApproximateTime": false,
+  "Height": 1.1287792895733839,
+  "IsApproximateHeight": false,
+  "Filtered": false
+}, {
+  "EventType": "HighWater",
+  "DateTime": "2019-10-23T16:29:00",
+  "IsApproximateTime": false,
+  "Height": 2.4726681377303459,
+  "IsApproximateHeight": false,
+  "Filtered": false
+}, {
+  "EventType": "LowWater",
+  "DateTime": "2019-10-23T23:30:00",
+  "IsApproximateTime": false,
+  "Height": 0.92995804683360028,
+  "IsApproximateHeight": false,
+  "Filtered": false
+}, {
+  "EventType": "HighWater",
+  "DateTime": "2019-10-24T05:14:00",
+  "IsApproximateTime": false,
+  "Height": 2.4622780725612583,
+  "IsApproximateHeight": false,
+  "Filtered": false
+}, {
+  "EventType": "LowWater",
+  "DateTime": "2019-10-24T10:44:00",
+  "IsApproximateTime": false,
+  "Height": 0.97608348004928325,
+  "IsApproximateHeight": false,
+  "Filtered": false
+}, {
+  "EventType": "HighWater",
+  "DateTime": "2019-10-24T17:24:00",
+  "IsApproximateTime": false,
+  "Height": 2.6945155981892404,
+  "IsApproximateHeight": false,
+  "Filtered": false
+}, {
+  "EventType": "LowWater",
+  "DateTime": "2019-10-25T00:23:00",
+  "IsApproximateTime": false,
+  "Height": 0.72676652946224662,
+  "IsApproximateHeight": false,
+  "Filtered": false
+}, {
+  "EventType": "HighWater",
+  "DateTime": "2019-10-25T06:07:00",
+  "IsApproximateTime": false,
+  "Height": 2.656071193235567,
+  "IsApproximateHeight": false,
+  "Filtered": false
+}, {
+  "EventType": "LowWater",
+  "DateTime": "2019-10-25T11:47:00",
+  "IsApproximateTime": false,
+  "Height": 0.78806621626279583,
+  "IsApproximateHeight": false,
+  "Filtered": false
+}, {
+  "EventType": "HighWater",
+  "DateTime": "2019-10-25T18:13:00",
+  "IsApproximateTime": false,
+  "Height": 2.9004625913068929,
+  "IsApproximateHeight": false,
+  "Filtered": false
+}, {
+  "EventType": "LowWater",
+  "DateTime": "2019-10-26T01:07:00",
+  "IsApproximateTime": false,
+  "Height": 0.55902940897795217,
+  "IsApproximateHeight": false,
+  "Filtered": false
+}, {
+  "EventType": "HighWater",
+  "DateTime": "2019-10-26T06:53:00",
+  "IsApproximateTime": false,
+  "Height": 2.8343568525656,
+  "IsApproximateHeight": false,
+  "Filtered": false
+}, {
+  "EventType": "LowWater",
+  "DateTime": "2019-10-26T12:41:00",
+  "IsApproximateTime": false,
+  "Height": 0.59974223623435641,
+  "IsApproximateHeight": false,
+  "Filtered": false
+}, {
+  "EventType": "HighWater",
+  "DateTime": "2019-10-26T18:57:00",
+  "IsApproximateTime": false,
+  "Height": 3.0615394273120278,
+  "IsApproximateHeight": false,
+  "Filtered": false
+}]
+
+What am I suppose to understand from here?
