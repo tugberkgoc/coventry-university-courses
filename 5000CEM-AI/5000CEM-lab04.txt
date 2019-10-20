@@ -1,0 +1,27 @@
+5000CEM Lab 4 - Introduction to Machine Learning
+
+Basic Tasks - Intro to ML
+
+a) Machine learning is a mechanism to give machine some data to decide which one it is. 
+Thus, we need to use big and appropriate data for better results. 
+There has been a suddent growth because companies has been learning how to use these data to their benefits.
+For example, if you search something to buy, you are going to see a lot of adds related to that.
+Because, they know that you want to buy this, so they are trying to convince you to buy with showing some discounts.
+Also, it uses for face recognition. Therefore, CCTVs helps people to decide which person is on the CCTV at specific time.
+Besides that, it also can be used to unlock phone screens. Therefore, nobody can not unlock specific phone except owner.
+In addition to all of them, there are many applications such as self-driving cars, natural language processing and so on.
+
+b) We use some data to teach machine how it needs to behave. It is called as training data set. 
+When we taught to machine, we need to check that it is right or not. 
+So, we use some validation data set to validate that we have taught to machine properly.
+Then, we have test data set which is used for estimating with using all of the information that we taught.
+
+c) TODO: Briefly outline in no more than 150 words what neural networks and
+decision trees are. Ensure you indicate where they are appropriate
+to use. 
+
+Check this out : https://github.com/maurock/snake-ga
+
+Advance Tasks – Introduction to ML
+
+a) 
